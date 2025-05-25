@@ -4,7 +4,7 @@ Copy
 Edit
 # MOSAM Online Quran Academy
 
-A clean and responsive website designed for **MOSAM Online Quran Academy**, built using **HTML**, **CSS**, and **Bootstrap**. This platform presents Islamic educational services and online Quran learning opportunities in an elegant and user-friendly manner.
+A clean and responsive website designed for **MOSAM Online Quran Academy**, built using **HTML**, **CSS**, **Javascript** and **Bootstrap**. This platform presents Islamic educational services and online Quran learning opportunities in an elegant and user-friendly manner.
 
 🔗 **Live Demo:** [https://mosam.rdsprecisionbilling.com/](https://mosam.rdsprecisionbilling.com/)
 
