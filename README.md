@@ -19,19 +19,28 @@ A clean and responsive website designed for **MOSAM Online Quran Academy**, buil
 
 - HTML5
 - CSS3
+- JavaScript
 - Bootstrap 4/5
 
 ## 📂 Project Structure
 
 mosam-online-quran-academy/
 ├── index.html
+
 ├── about.html
+
 ├── contact.html
+
 ├── css/
+
 │ └── style.css
+
 ├── img/
+
 │ └── (images used in the site)
+
 ├── js/
+
 │ └── script.js (if any)
 └── ...
 
