@@ -56,7 +56,7 @@ No installation required. Simply open the `index.html` file in any browser or de
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/mosam-online-quran-academy.git
+git clone https://github.com/Ateeq1997/Mosam-website.git
 Open index.html in your browser.
 
 👤 Author
